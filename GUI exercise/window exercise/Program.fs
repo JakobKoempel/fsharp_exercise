@@ -1,8 +1,6 @@
 ﻿open System
 open System.Windows
 
-open window_exercise.File1
-
 open FsXaml
 open System.Windows.Controls.Primitives
 
@@ -18,7 +16,7 @@ let main _ =
     let Button2 = myWindow.myButton2
 
     Button1.Click.Add (toggleButton Button2)
-    Button2.Click.Add (fun _ -> printfn("%i") <| f 10)
+    Button2.Click.Add (fun _ -> printfn "hello")
     let application = Application ()
     application.Run myWindow
     0 
