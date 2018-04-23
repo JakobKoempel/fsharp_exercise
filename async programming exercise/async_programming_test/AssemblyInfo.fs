@@ -1,4 +1,4 @@
-﻿namespace iterative_programming_array_exercise.AssemblyInfo
+﻿namespace async_programming_test.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("iterative_programming_array_exercise")>]
+[<assembly: AssemblyTitle("async_programming_test")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("iterative_programming_array_exercise")>]
+[<assembly: AssemblyProduct("async_programming_test")>]
 [<assembly: AssemblyCopyright("Copyright ©  2018")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("8ef33665-1593-4a4f-9412-cb6bb4cef221")>]
+[<assembly: Guid("0f9d8b5e-bce1-4012-b4f7-bdff90681985")>]
 
 // Version information for an assembly consists of the following four values:
 // 

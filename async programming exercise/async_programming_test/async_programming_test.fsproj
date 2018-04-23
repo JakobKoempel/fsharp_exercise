@@ -5,15 +5,15 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>8ef33665-1593-4a4f-9412-cb6bb4cef221</ProjectGuid>
+    <ProjectGuid>0f9d8b5e-bce1-4012-b4f7-bdff90681985</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>iterative_programming_array_exercise</RootNamespace>
-    <AssemblyName>iterative_programming_array_exercise</AssemblyName>
+    <RootNamespace>async_programming_test</RootNamespace>
+    <AssemblyName>async_programming_test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <UseStandardResourceNames>true</UseStandardResourceNames>
     <TargetFSharpCoreVersion>4.4.1.0</TargetFSharpCoreVersion>
-    <Name>iterative_programming_array_exercise</Name>
+    <Name>async_programming_test</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

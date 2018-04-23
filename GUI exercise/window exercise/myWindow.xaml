@@ -1,13 +1,3 @@
 ﻿<Window xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x = "http://schemas.microsoft.com/winfx/2006/xaml">
-    <StackPanel Orientation="Vertical">
-        <Button x:Name="myButton1"
-            Content="Click me"
-            Width="75"
-            Height="25"/>
-        <Button x:Name="myButton2"
-            Content="Click me"
-            Width="75"
-            Height="25"/>
-    </StackPanel>
 </Window>
