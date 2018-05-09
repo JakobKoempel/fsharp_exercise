@@ -28,7 +28,7 @@ type Value = Ace = 1
 Now I create the type 'Card' that combines both other types. 
 When creating this type I also overrode the toString methode in order to make the output more ordered.
 
-```sharp
+```fsharp
 type Card = {
     suit : Suit
     value : Value   
