@@ -1,4 +1,4 @@
-# Card deck type 
+# Card deck in F# usign enums
 
 In this program I used enumeration in F# in order to create a card deck.  
 First I created two types. The type 'Suit' and the type 'Value' and use enums in order to rank te different states.
