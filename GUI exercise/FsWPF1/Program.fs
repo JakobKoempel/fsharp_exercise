@@ -11,8 +11,3 @@ let main _ =
 
     let application = Application ()
     application.Run myWindow 
-
-(*
-xaml file needs to be a rsource and it has to be copied if newer (go to properties)
-save xaml file first or it cant be read
-*)
