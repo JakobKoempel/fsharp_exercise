@@ -1,9 +1,8 @@
-﻿open System
-
-type Suit = Spades = 0
+﻿type Suit = Spades = 0
           | Diamonds = 1
           | Clubs = 2
           | Hearts = 3
+  
 
 type Value = Ace = 1
            | Two = 2
@@ -19,7 +18,7 @@ type Value = Ace = 1
            | Queen = 12
            | King = 13
 
-type Pcard = {
+type Card = {
     suit : Suit
     value : Value   
 } with  
